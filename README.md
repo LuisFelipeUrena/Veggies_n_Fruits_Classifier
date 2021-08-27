@@ -5,6 +5,7 @@ This project is the initial implementation of an Image classifer trained on the 
 
 
 The project was built using python 3.7.6, Libraries and Versions can be found in the Training notebook on this repo.
+Run the notebook provided on this repo to get the Neural network needed and add that to the model folder when needed.
 
 make sure that pipenv is installed in your machine and run the following command to install all dependencies:
 
